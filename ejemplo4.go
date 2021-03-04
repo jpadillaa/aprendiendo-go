@@ -45,11 +45,11 @@ func main() {
 	fmt.Println("Entero (int64): ", variable5)
 
 	// imprimiendo enteros sin signo
-	fmt.Println("Entero (uint): ", uVariable1)
-	fmt.Println("Entero (uint8): ", uVariable2)
-	fmt.Println("Entero (uint16): ", uVariable3)
-	fmt.Println("Entero (uint32): ", uVariable4)
-	fmt.Println("Entero (uint64): ", uVariable5)
+	fmt.Println("Entero sin signo (uint): ", uVariable1)
+	fmt.Println("Entero sin signo (uint8): ", uVariable2)
+	fmt.Println("Entero sin signo (uint16): ", uVariable3)
+	fmt.Println("Entero sin signo (uint32): ", uVariable4)
+	fmt.Println("Entero sin signo (uint64): ", uVariable5)
 
 	// imprimiendo decimales
 	fmt.Println("Decimal (float32): ", fVariable1)
