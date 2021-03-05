@@ -39,6 +39,9 @@ Este ejemplo presenta la estructura del ciclo for.
 ## Ejemplo #13 - Switch
 Este ejemplo presenta la estructura conficional switch
 
+## Ejemplo #14 - Defer
+Este ejemplo presenta defer para difereir la función o los argumentos de llamada de método se evalúan instantáneamente, pero se ejecutan hasta que regresan las funciones cercanas.
+
 
 
 
