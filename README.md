@@ -33,8 +33,8 @@ Este ejemplo ilustra la definición de funciones, con y sin retorno, con y sin p
 ## Ejemplo11 - Condicionales 
 Este ejemplo presenta las estructuras conficionales if - else, if - else if - else.
 
-## Ejemplo12 - Funciones
-Este ejemplo presenta la sintaxis para definir funciones con y sin retorno y funciones con y sin parametros. 
+## Ejemplo12 - For
+Este ejemplo presenta la estructura del ciclo for.
 
 ## Ejemplo13 - Switch
 Este ejemplo presenta la estructura conficional switch

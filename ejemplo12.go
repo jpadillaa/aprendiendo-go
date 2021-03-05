@@ -29,7 +29,7 @@ func main() {
 
 	fmt.Println("for forever")
 
-	// for -> tipo while
+	// for -> loop infinito (requiere una condición que lo rompa para evitar la ejecución infinita)
 	contador = 0
 	for {
 		fmt.Println(contador)
