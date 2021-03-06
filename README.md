@@ -51,5 +51,5 @@ Este ejemplo presenta la diferencia entre variables locales y globales.
 ## Ejemplo #17 - Cast de variables
 Este ejemplo ilustra las conversiones de tipo. 
 
-## Ejemplo #17 - Pasar arreglos a una función por valor y por referencia
+## Ejemplo #18 - Pasar arreglos a una función por valor y por referencia
 Este ejemplo ilustra el paso de arreglos a una función por valor y por referencia.
