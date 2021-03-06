@@ -56,3 +56,6 @@ Este ejemplo ilustra el paso de arreglos a una función por valor y por referenc
 
 ## Ejemplo #19 - Estructuras (struct)
 Este ejemplo ilustra la definición, inicialización y acceso a los campos de una estructura en Go.
+
+## Ejemplo #20 - Apuntadores y Estructuras (struct)
+Este ejemplo ilustra el uso de apuntadores con estructuras. 
