@@ -53,3 +53,6 @@ Este ejemplo ilustra las conversiones de tipo.
 
 ## Ejemplo #18 - Pasar arreglos a una función por valor y por referencia
 Este ejemplo ilustra el paso de arreglos a una función por valor y por referencia.
+
+## Ejemplo #19 - Estructuras (struct)
+Este ejemplo ilustra la definición, inicialización y acceso a los campos de una estructura en Go.
