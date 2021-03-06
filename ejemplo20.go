@@ -30,14 +30,20 @@ func main() {
 	fmt.Println("Empleado2:", *empleado2)
 
 	// (*empleado2).nombre es la sintaxis para acceder al valor nombre de la estructura a la que se apunta
-	fmt.Println("Empleado 2 (Nombres): ", (*empleado2).nombre)
+	fmt.Println("\nEmpleado 2 (Nombres): ", (*empleado2).nombre)
 	fmt.Println("Empleado 2 (Apellidos): ", (*empleado2).apellidos)
 	fmt.Println("Empleado 2 (Salarios): ", (*empleado2).salario)
 
 	// (*empleado2).nombre utilizar esta notación no es mandatoria en Go. Go permita acceder a los campos
 	// de una estructura a la que se apunta, como si fuera una instancia de una estructura declarada
-	fmt.Println("Empleado 2 (Nombres): ", empleado2.nombre)
+	fmt.Println("\nEmpleado 2 (Nombres): ", empleado2.nombre)
 	fmt.Println("Empleado 2 (Apellidos): ", empleado2.apellidos)
 	fmt.Println("Empleado 2 (Salarios): ", empleado2.salario)
+
+	// Lo anterios aplica de la misma forma para modificar los campos de la estructura a la que se apunta
+	(*empleado2).nombre = "Obi-Wan"
+	empleado2.apellidos = "Kenobi"
+	fmt.Println("\nEmpleado1:", empleado1)
+	fmt.Println("Empleado2:", empleado2)
 
 }
