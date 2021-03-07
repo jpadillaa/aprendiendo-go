@@ -65,3 +65,9 @@ Este ejemplo ilustra las relaciones entre estructuras.
 
 ## Ejemplo #22 - La función scanf
 Este ejemplo ilustra como se reciben datos por la entrada estandar utilizando la función scanf.
+
+## Ejemplo #23 - Slices
+Este ejemplo ilustra la funcionalidad de los slice, a diferencia de los array son listas de tamaño varible (aunque todos los elementos son del mismo tipo).
+
+## Ejemplo #24 - Maps
+Este ejemplo presenta las estructuras llave/valor (Maps). Los maps son equivalentes a los diccionarios de Python.
