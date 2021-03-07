@@ -59,3 +59,9 @@ Este ejemplo ilustra la definición, inicialización y acceso a los campos de un
 
 ## Ejemplo #20 - Apuntadores y Estructuras (struct)
 Este ejemplo ilustra el uso de apuntadores con estructuras. 
+
+## Ejemplo #21 - Relaciones entre estructuras (Nested Structures)
+Este ejemplo ilustra las relaciones entre estructuras. 
+
+## Ejemplo #21 - La función scanf
+Este ejemplo ilustra como se reciben datos por la entrada estandar utilizando la función scanf.
